@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StartAnActivity</string>
+    <string name="str1">呼叫另一個活動</string>
+    <string name="str2">呼叫另一個活動,但不帶資料</string>
+    <string name="str3">呼叫另一個活動,帶資料</string>
+    <string name="str4">啟動另一個Activity,帶資料,回傳資料</string>
+</resources>

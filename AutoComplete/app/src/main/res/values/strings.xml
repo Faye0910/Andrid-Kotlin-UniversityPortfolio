@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AutoComplete</string>
+    <string-array name="placeArray">
+        <item>taipei</item>
+        <item>taipei government</item>
+        <item>taipei 101</item>
+        <item>taichung</item>
+        <item>taipei railway</item>
+        <item>tainan</item>
+    </string-array>
+</resources>
